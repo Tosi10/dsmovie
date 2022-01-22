@@ -1,6 +1,16 @@
 function App() {
   return (
-    <h1>Página principal</h1>
+    <header>
+      <nav>
+        <div>
+          <h1>DSMovie</h1>
+          <a href="https://github.com/Tosi10">
+            
+          </a>
+        </div>
+      </nav>
+    </header>
+    
   );
 }
 
